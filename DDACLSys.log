@@ -1,0 +1,33 @@
+06/05 13:05:04	Info	Migrating Data Drive ACL is disabled for server skus
+06/05 13:05:04	Info	
+
+06/05 13:05:04	Info	Volume name is \\?\Volume{a14d8841-0000-0000-0000-100000000000}\
+06/05 13:05:04	Info	Mount Point are :
+06/05 13:05:04	Info	
+06/05 13:05:04	Info	Volume is Fixed Drive
+06/05 13:05:04	Info	Volume is ntfs
+06/05 13:05:04	Info	Volume is not system
+06/05 13:05:04	Info	Volume \\?\Volume{a14d8841-0000-0000-0000-100000000000}\ has other OS 0 
+06/05 13:05:04	Info	SDDL for Volume is D:(A;;FA;;;BA)(A;OICIIO;GA;;;BA)(A;;FA;;;SY)(A;OICIIO;GA;;;SY)(A;;0x1301bf;;;AU)(A;OICIIO;SDGXGWGR;;;AU)(A;;0x1200a9;;;BU)(A;OICIIO;GXGR;;;BU)
+06/05 13:05:04	Info	Volume \\?\Volume{a14d8841-0000-0000-0000-100000000000}\ has Default XP DACL 0
+06/05 13:05:04	Info	
+
+06/05 13:05:04	Info	Volume name is \\?\Volume{a14d8841-0000-0000-0000-602200000000}\
+06/05 13:05:04	Info	Mount Point are :
+06/05 13:05:04	Info	C:\	
+06/05 13:05:04	Info	Volume is Fixed Drive
+06/05 13:05:04	Info	Volume is ntfs
+06/05 13:05:04	Info	Volume is not system
+06/05 13:05:04	Info	Volume \\?\Volume{a14d8841-0000-0000-0000-602200000000}\ has other OS 1 
+06/05 13:05:04	Info	
+
+06/05 13:05:04	Info	Volume name is \\?\Volume{875151e8-87d5-11e9-a6a1-806e6f6e6963}\
+06/05 13:05:04	Info	Mount Point are :
+06/05 13:05:04	Info	D:\	
+06/05 13:05:04	Info	Volume is not Fixed or removable. DriveType is 5
+06/05 13:05:04	Info	
+
+06/05 13:05:04	Info	Volume name is \\?\Volume{875151e9-87d5-11e9-a6a1-806e6f6e6963}\
+06/05 13:05:04	Info	Mount Point are :
+06/05 13:05:04	Info	E:\	
+06/05 13:05:04	Info	Volume is not Fixed or removable. DriveType is 5
